@@ -1,0 +1,8 @@
+prefix=/home/salvador/convert_ws/devel
+
+Name: convert_PointCloud_to_PointCloud2
+Description: Description of convert_PointCloud_to_PointCloud2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/salvador/convert_ws/devel/lib 
+Requires: 

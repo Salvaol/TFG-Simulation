@@ -1,0 +1,8 @@
+prefix=/home/salvador/catkin_ws/install
+
+Name: movement
+Description: Description of movement
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/salvador/catkin_ws/install/lib 
+Requires: 
